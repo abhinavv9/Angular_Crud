@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "test",
+      "email": "tes@gmail.com",
+      "phone": 1234567890,
+      "salary": "121212"
+    },
+    {
+      "id": 3,
+      "name": "test1",
+      "email": "asdfghjk",
+      "phone": 25765453,
+      "salary": "0"
+    },
+    {
+      "id": 4,
+      "name": "es fe",
+      "email": "blah",
+      "phone": 354354354,
+      "salary": "657435465"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
