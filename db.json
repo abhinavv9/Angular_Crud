@@ -22,7 +22,22 @@
       "salary": "657435465"
     }
   ],
-  "comments": [],
+  "signupUsers": [
+    {
+      "name": "abhinav verma",
+      "email": "abhinavvrm14@gmail.com",
+      "password": "abhinav",
+      "phone": 9636696170,
+      "id": 1
+    },
+    {
+      "name": "abhinav verma",
+      "email": "test@test.com",
+      "password": "test123",
+      "phone": 963666666,
+      "id": 2
+    }
+  ],
   "profile": {
     "name": "typicode"
   }

@@ -12,6 +12,7 @@
       >
         Add Employee
       </button>
+      <button routerLink="/login" class="btn btn-danger mb-2">Logout</button>
     </div>
   </div>
 </nav>
@@ -41,7 +42,7 @@
           data-target="#exampleModal"
           class="btn btn-info"
           (click)="onEdit(row)"
-        > 
+        >
           Edit
         </button>
         <button (click)="deleteEmployee(row)" class="btn btn-danger mx-3">
