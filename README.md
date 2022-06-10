@@ -2,4 +2,4 @@
 
 ## Basic CMS
 
-##Future updates: Validations + Node backend + hosting
+## Future updates: Validations + Node backend + hosting
